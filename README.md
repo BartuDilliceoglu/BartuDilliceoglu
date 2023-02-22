@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bartu Dilliceoğlu</h1>
-<h3 align="center">Front-End Developer from Tekirdag/Turkey</h3>
+<h3 align="center">Front-End Developer from Tekirdag / Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bartudilliceoglu&label=Profile%20views&color=0e75b6&style=flat" alt="bartudilliceoglu" /> </p>
 
